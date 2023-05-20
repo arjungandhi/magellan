@@ -1,2 +1,3 @@
-# magellan
-Magellan is a local search engine that indexes and searches a variety of file types
+# Magellan
+
+Magellan is a search engine/utility that searches and indexes documents for my personal use. 
