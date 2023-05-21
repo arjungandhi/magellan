@@ -1,0 +1,3 @@
+# ignore all built proto files in the proto di
+*.go
+
